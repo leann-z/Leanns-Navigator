@@ -1,7 +1,4 @@
 /* Author name: Leann Alhashishi
- * Class: CMSC202
- * Section number: 13
- * Author Email: lalhash1@umbc.edu
  * Date: April 4, 2022
 */
 #include "Navigator.h"
